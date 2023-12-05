@@ -1,0 +1,93 @@
+[
+    {
+      "id": "1",
+      "Image": "assets_1/lab1/imgs/starwar.jpg",
+      "cost": 100000,
+      "Title": "Star Wars: Episode IV - A New Hope",
+      "Year": "1977",
+      "Nation": "USA",
+      "info": "'Chiến Tranh Giữa Các Vì Sao 4: Niềm Hy Vọng Mới - Star Wars: Episode IV - A New Hope (1977)' xoay quanh cuộc phiêu lưu của nhân vật chính Luke Skywalker trong việc chiến đấu chống lại Đế Quốc Xanh và truy tìm các Jedi còn sót lại. Câu chuyện diễn ra trong một thiên hà xa xôi, nơi Liên Minh Nổi Dậy đang chiến đấu chống lại Đế Quốc Xanh dưới sự lãnh đạo của Công tước Leia Organa. Trên hành tinh Tatooine, chúng ta được giới thiệu với anh chàng nông dân Luke Skywalker, người khao khát được phiêu lưu và tìm hiểu về thế giới rộng lớn ngoài kia.",
+      "clip": "https://www.youtube.com/embed/MpkrMqmmy5k"
+    },
+    {
+      "id": "2",
+      "Image": "assets_1/lab1/imgs/fate.jpg",
+      "cost": 120000,
+      "Title": "Fate/stay night: Heaven's Feel III",
+      "Year": "2020",
+      "Nation": "Japan",
+      "info": "'Fate/Stay Night: Heaven's Feel III Spring Song'  là phần cuối của series phim Fate/Stay Night Movie : Heaven's Feel, được chuyển thể từ game visual novel cùng tên và hãng Type-Moon chịu trách nhiệm phát hành. Ở phần này, câu chuyện không chỉ xoay quanh những cuộc chiến đấu đầy mạnh mẽ, khốc liệt mà còn đi sâu hơn vào mối quan hệ giữa các nhân vật. Dần đi đến hồi kết, cuộc đại chiến Chén Thánh sẽ được khép lại như thế nào? Mùa xuân của Sakura và Shirou liệu có đến ấm áp như họ hằng mong đợi?",
+      "clip": "https://www.youtube.com/embed/hjxkpIpvcOw"
+    },
+    {
+      "id": "3",
+      "Image": "assets_1/lab1/imgs/autobot.jpg",
+      "cost": 250000,
+      "Title": "Transformers: Rise of the Beasts",
+      "Year": "2023",
+      "Nation": "USA",
+      "info": "Là phần tiếp theo của loạt phim Transformers, 'Transformers: Rise Of The Beasts', tiếp tục đưa người xem vào cuộc phiêu lưu hấp dẫn và đầy hành động, khi các loài quái thú khổng lồ trỗi dậy và gây chấn động thế giới. Trong cuộc phiêu lưu đầy kịch tính này, Optimus Prime và Autobots sẽ đối mặt với thử thách lớn nhất của họ. Khi một mối đe dọa mới xuất hiện có nguy cơ hủy diệt toàn bộ hành tinh, họ phải hợp tác với một phe hùng mạnh được gọi là Maximals. Với số phận của nhân loại đang ở tình thế ngàn cân treo sợi tóc, Noah và Elena sẽ làm bất cứ điều gì cần thiết để giúp đỡ Transformers khi họ tham gia vào trận chiến cuối cùng để cứu Trái Đất.",
+      "clip": "https://www.youtube.com/embed/itnqEauWQZM"
+    },
+    {
+      "id": "4",
+      "Image": "assets_1/lab1/imgs/aquaman.jpg",
+      "cost": 275000,
+      "Title": "Aquaman",
+      "Year": "2018",
+      "Nation": "USA",
+      "info": "Sau những sự kiện trong Justice League, Arthur Curry / Aquaman trở về biển cả và bắt đầu đảm nhận quyền thừa kế vương quốc Atlantis dưới sự cố vấn của công chúa Mera. Thế nhưng, đế chế huyền thoại bao năm ẩn mình dưới lòng biển sâu Atlantics sắp phải dậy sóng khi Orm quyết tâm thu phục 7 chủng tộc nơi đáy đại dương để tiêu diệt toàn bộ sự sống trên mặt đất.Giữa lúc biển xanh cuộn trào những đợt sóng dữ dội nhất Aquaman sẽ đương đầu với mọi việc như thế nào để bảo vệ quê hương và thế giới?",
+      "clip": "https://www.youtube.com/embed/WDkg3h8PCVU"
+    },
+    {
+      "id": "5",
+      "Image": "assets_1/lab1/imgs/marvel.jpg",
+      "cost": 110000,
+      "Title": "Marvel Avenger",
+      "Year": "2012",
+      "Nation": "USA",
+      "info": "Những anh hùng hùng mạnh của Trái đất phải đến với nhau và học cách chiến đấu với tư cách là một đội nếu họ sẽ ngăn chặn Loki tinh nghịch và quân đội người ngoài hành tinh của mình khỏi sự nô lệ nhân loại.",
+      "clip": "https://www.youtube.com/embed/eOrNdBpGMv8"
+    },
+    {
+      "id": "6",
+      "Image": "assets_1/lab1/imgs/meg.jpg",
+      "cost": 255000,
+      "Title": "Meg 2: The trench",
+      "Year": "2023",
+      "Nation": "USA",
+      "info": "Meg 2: The Trench (2023) tiếp tục nhiệm vụ đã được đề cập trong phần phim trước, nhóm của Jonas Taylor (Jason Statham thủ vai) tiếp cận gần khu vực Rãnh Mariana, nơi họ đụng độ một quái vật bí ẩn, khiến một thành viên trong nhóm thiệt mạng ngay sau đó. Cái chết của người đồng đội báo hiệu cho cả nhóm về một mối đe dọa to lớn đang giấu mình trong những vách đá tối tăm. Thế nhưng, trong cả những viễn cảnh hoang đường nhất, họ cũng không thể ngờ những mối nguy đang chực chờ đe dọa họ có thể tàn ác đến mức nào.",
+      "clip": "https://www.youtube.com/embed/dG91B3hHyY4"
+    },
+    {
+      "id": "7",
+      "Image": "assets_1/lab1/imgs/kungfu.jpg",
+      "cost": 50000,
+      "Title": "Kung Fu Hustle",
+      "Year": "2004",
+      "Nation": "China",
+      "info": "Bộ phim Kungfu Hustle lấy bối cảnh xã hội hỗn loạn ở Trung Quốc những năm 1940, các băng nhóm có sức ảnh hưởng vô cùng lớn. Đáng sợ nhất phải kể đến đảng Lưỡi Rìu mà đứng đầu là đại ca Sum. Hắn vốn là kẻ say mê chém giết lại cực kỳ nhẫn tâm. Băng nhóm của Sum đi đến đâu nỗi kinh hoàng theo tới đó. Người dân thành phố thì lo lắng, đám cảnh sát thì sợ sệt. Chỉ duy có khu ổ chuột Chuồng Heo là không bị đám côn đồ đảng Lưỡi Rìu nhũng nhiễu vì người dân nơi đây quá nghèo. Nhưng một ngày kia, đột nhiên có hai tên lang thang giả dạng lưu manh Sing và Bone xuất hiện định moi tiền của một anh thợ cắt tóc. Kể từ đây, một loạt các xung đột, mâu thuẫn nảy sinh dẫn đến những tình huống đầy bi hài...",
+      "clip": "https://www.youtube.com/embed/FtE9-o6dBEI"
+    },
+    {
+      "id": "8",
+      "Image": "assets_1/lab1/imgs/thething.jpg",
+      "cost": 55000,
+      "Title": "The Thing",
+      "Year": "1982",
+      "Nation": "USA",
+      "info": "The Thing lấy bối cảnh một nhóm nghiên cứu Mỹ đang đặt trạm tại Nam Cực và ở đây cũng có một loài sinh vật từ ngoài hành tinh đã xuống Trái Đất và nằm im dưới lớp băng rất lâu cho đến khi con người đào và phát hiện ra chúng. Loài sinh vật này một khi bắt được vật thể (là con người hoặc động vật), chúng sẽ có khả năng đồng hoá các tế bào và “bắt chước” được người đó từ hình dáng cho đến hành động nếu chúng học hỏi trong quá trị trà trộn với những người khác. Từ đó sẽ gây khó khăn cho một cộng đồng, hay một nhóm nhỏ vì không ai biết được ai là người, ai là quái vật, vì chúng sẽ tìm cách lẫn trốn hoặc giết người nếu như chúng cảm thấy đang bị đe doạ.",
+      "clip": "https://www.youtube.com/embed/5ftmr17M-a4"
+    },
+    {
+      "id": "9",
+      "Image": "assets_1/lab1/imgs/culao.jpg",
+    "cost":200000,
+    "Title": "Lost In Mekong Delta",
+    "Year": "2022",
+    "Nation": "VietNam",
+    "info":"Một xác sống trôi dạt theo bờ sông Mê Kông mang tới hiểm họa chết chóc cho cù lao nọ. Cơ hội sống duy nhất của nhóm còn sót lại là tới được bến phà và trốn thoát trước khi đại dịch lan rộng.",
+    "clip":"https://www.youtube.com/embed/U3X0dqNzITA" 
+   }
+    
+  ]

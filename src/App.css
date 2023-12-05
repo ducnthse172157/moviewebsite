@@ -1,0 +1,328 @@
+
+body{
+  /* background-image: url('D:\study FPT\Fall2023\FER201m\secondReactApp\Lab1\public\assets_1\lab1\imgs\backgound4.jpg'); */
+  background-size:cover; /* Scale the image to cover the entire element */
+  background-repeat: no-repeat; /* Prevent the image from repeating */
+  background-position: center center; /* Center the image horizontally and vertically */
+}
+div h1{
+  justify-content:space-around;
+  justify-items: center;
+  text-align: center;
+  font-size: 80px;
+  font-family: arial;
+  font-weight: bolder;
+  /* background: url('D:\study FPT\Fall2023\FER201m\secondReactApp\Lab1\public\assets_1\lab1\imgs\header4.jpg') ; */
+  background-repeat:   -20px -20px no-repeat;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-stroke: 2px black;
+  margin-top: 10px;
+}
+.navbar{
+  display: flex;
+  justify-content:stretch;
+  list-style: none;
+  align-items: center;
+  padding: 0px 10px;
+  background-color:rgb(109, 5, 5);
+  margin: 10px 0px;
+  height: 50px;
+  }
+  
+  .link {
+    text-decoration: none;
+    color:inherit; 
+    transition: color 0.3s ease-in-out;
+  }
+  .switch-mode{
+    position: relative;
+    border-style: none;
+    text-align: center;
+    font-size: 15px;
+  }
+  .switch-mode p:hover{
+    color: gold;
+    
+  }
+
+  .card img{
+    width: 100%;
+    height: 280px;
+    margin: 0;
+    margin-top: 20px;
+    padding: 0;
+    border-radius: 20px;
+  }
+ .card{
+  width: 300px;
+  border-radius: 20px;
+  background-color: gainsboro;
+  margin: 20px 0px;
+  text-align: center;
+  box-shadow:2px 2px 8px 2px  rgb(166, 53, 53);
+ }
+  h3.title{
+    font-size: 25px;
+  }
+  p.year{
+    font-weight: bold;
+    color: red;
+    padding: 0px;
+  }
+  .card p:nth-child(){
+    margin-bottom: 0;
+  }
+  button.bt{
+    background-color: black;
+    width: 30%;
+    height: 30px;
+    margin: 10px 0;
+    padding: 2px;
+    cursor: pointer;
+    border-style: none;
+    border-radius: 20px;
+  }
+  button.dbt{
+    background-color: black;
+    width: 30%;
+    height: 30px;
+    color: white;
+    border-style: none;
+    cursor: pointer;
+    border-style: none;
+    border-radius: 20px;
+    margin-bottom: 10px;
+  }
+  .pagination{
+    background-color: wheat;
+    width: fit-content;
+    border-radius: 20px;
+  }
+  a.pop{
+    color: white;
+    text-decoration: none;
+    
+  }
+
+  a.pop:hover{
+    color: gold;
+  }
+  button:hover{
+    color: gold;
+  }
+  .Ft{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(109, 5, 5);
+    text-align: center;
+    color: white; 
+  }
+  
+  p.foot{
+    margin-top: 0px;
+    padding: 10px 0;
+    margin-bottom: 0px;
+  }
+  .overlay {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.7);
+    transition: opacity 500ms;
+    visibility: hidden;
+    opacity: 0;
+  }
+  .overlay:target {
+    visibility: visible;
+    opacity: 1;
+  }
+  .popup {
+    margin: 40px auto;
+    padding: 5px;
+    background: #797575;
+    border-radius: 10px;
+    width: 25%;
+    height: 92%;
+    position: relative;
+    transition: all 5s ease-in-out;
+  }
+  .pop-image{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+  }
+  .pop-image img{
+     width: 80%;
+     height: 300px;
+     border-radius: 20px;
+    }
+  .popup h2 {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 0;
+    color: #333;
+    font-family: Tahoma, Arial, sans-serif;
+  }
+  .popup .close {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    transition: all 200ms;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #333;
+  }
+  .popup .close:hover {color: red;}
+  .popup .content {
+    max-height: 30%;
+    padding: 20px;
+    overflow: auto;
+  }
+
+/* Width and Track Styles */
+.popup .content::-webkit-scrollbar {
+  width: 12px; /* Width of the scrollbar */
+}
+
+
+.popup .content::-webkit-scrollbar-track {
+  background: #888; /* Background color of the track */
+  border-radius: 6px;
+}
+
+/* Thumb (the draggable part) Styles */
+.popup .content::-webkit-scrollbar-thumb {
+  background: #9e2424; /* Color of the thumb */
+  border-radius: 6px; /* Rounded corners for the thumb */
+}
+
+/* On hover, style the thumb differently */
+.popup .content::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+.detail-container{
+  width: 50%;
+  margin-bottom: 50px;
+  margin-top: 10px;
+}
+.product-card{
+  /* background-image: url('D:\study FPT\Fall2023\FER201m\secondReactApp\Lab1\public\assets_1\lab1\imgs\detailbackground2.jpg'); */
+  background-color: #888;
+  background-size: cover; /* Scale the image to cover the entire element */
+  background-repeat: no-repeat; /* Prevent the image from repeating */
+  background-position: center center; /* Center the image horizontally and vertically */
+  position: relative;
+  left: 50%;
+  box-shadow:2px 2px 8px 2px  rgb(166, 53, 53);
+  padding-bottom: 10px;
+  border-style:solid;
+}
+.badge{
+  position: absolute;
+  top: 20px;
+  background-color: red;
+  color: white;
+  padding: 0 5px;
+}
+.product-tumb{
+  /* background-image: url('D:\study FPT\Fall2023\FER201m\secondReactApp\Lab1\public\assets_1\lab1\imgs\detailbackground1.jpg'); */
+  background-color: #9e2424;
+  background-size: cover; /* Scale the image to cover the entire element */
+  background-repeat: no-repeat; /* Prevent the image from repeating */
+  background-position: center center; /* Center the image horizontally and vertically */
+  display: flex;
+justify-content: center; 
+align-items: center;
+}
+.product-tumb img{
+height: 350px;
+width: 250px;
+}
+.product-details{
+  margin:0 20px;
+}
+.product-price{
+  color: goldenrod;
+  font-size: 15px;
+  font-weight: bold;
+}
+.product-details p{
+  background-color: #888;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 5px 5px;
+}
+.product-details .close{
+  position: absolute;
+  bottom: 90%;
+  left: 85%;
+  right: 5%;
+  text-decoration: none;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  color: #333;
+}
+.product-details .close:hover {color:red}
+.contact-menu{
+ background-color: wheat;
+ padding: 10px;
+ margin-bottom: 10px;
+}
+.Subbt{
+  background-color: #9e2424;
+}
+.Subbt:hover{
+  background-color: red;
+  color: gold;
+}
+
+.modal-show {
+  background-color: rgba(0, 0, 0, 0.2);
+  width: 100vw;
+  height: 100vmax;
+  z-index: 99;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+}
+.modal-close{
+  font-size: 25px;
+  font-weight: bold;
+  transition: all 200ms;
+  color: #333;
+  position: relative;
+  right: 350px;
+}
+.modal-close:hover{color: red;}
+.about-nav{
+  background-color:wheat;
+  height:400px;
+  width:100%;
+  padding-top: 10px;
+}
+.N-item{
+  color:#333;
+  width: 500px;
+}
+.New-con{
+  background-color:wheat;
+  padding: 20px 30px;
+  margin-bottom: 10px;
+}
+.New-con ul li{
+  list-style: circle;
+}
+.New-con ul li a:hover{
+ color: red;
+}
+.loginbt{
+  margin: 10px;
+}
